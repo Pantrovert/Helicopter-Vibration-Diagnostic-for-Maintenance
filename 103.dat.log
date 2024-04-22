@@ -1,0 +1,31 @@
+Initialise IFPStarServices - success
+Messages are being generated while reading the input file: C:\Users\pantr\Documents\7th SEM\Project\Nastran\103\103_22222716.bdf
+
+WARNING:  *** USER WARNING MESSAGE 9994 (BULKPM)
+     GRID near line 123 
+was duplicated.
+
+
+WARNING:  *** USER WARNING MESSAGE 9994 (BULKPM)
+     GRID near line 470 
+was duplicated.
+
+
+WARNING:  *** USER WARNING MESSAGE 9994 (BULKPM)
+     GRID near line 495 
+was duplicated.
+
+
+
+                                        M O D E L   S U M M A R Y          BULK
+                                   ENTRY NAME        NUMBER OF ENTRIES
+                                   ----------        -----------------
+                                         CBAR                      450
+                                        EIGRL                        1
+                                         GRID                      452
+                                         MAT1                        3
+                                         PBAR                        7
+
+
+Creating Nastran Database using IFPStar SCA Service: Success
+
